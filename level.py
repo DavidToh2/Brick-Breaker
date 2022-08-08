@@ -216,6 +216,7 @@ def update():
                 if testbrick2:
                     (sx, sy) = brickAdjacency(testbrick, testbrick2)
                     if ballCollideOnce(ball, testbrick, sx, sy):
+                        ballEffect(ball, testbrick2)                        # Damages the second brick as well.
                         break
                 else:
                     if ballCollideOnce(ball, testbrick, 0, 0):
