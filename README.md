@@ -1,5 +1,5 @@
 # Brick-Breaker
-Brick breaker game, created in **Python 3.10.5**.
+Brick breaker game, created in **Python 3.10.5**. Type `python game.py` to run.
 
 <img src="sprites/old sprites/Ball.png" alt="Icon" width=32 height=32>
 
@@ -7,6 +7,7 @@ Brick breaker game, created in **Python 3.10.5**.
 - 15 levels
 - 5 powerups
 - Highscore saving (not implemented)
+- Lowkey boring (levels 4 and 11 are cool though, and levels 9 and 15 make a good challenge!)
 
 ## Code features
 - Semi-responsive menu that can toggle level select display
