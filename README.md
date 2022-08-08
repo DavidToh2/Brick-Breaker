@@ -13,9 +13,9 @@ Brick breaker game, created in **Python 3.10.5**. Type `python game.py` to run.
 - Semi-responsive menu that can toggle level select display
 - Multiple balls can be on the screen at once, and each ball's attributes are independent of the other balls. Powerups also affect balls' speed individually
 - Multiple powerups can be active at the same time, even on the same ball (e.g. a smasher + fire ball)
-- The trajectory of balls is controlled by where it bounces on the player paddle.
+- The trajectory of balls is controlled by where it bounces on the player paddle
 - The game handles double-collisions (i.e. when a ball collides with 2 bricks simultaneously at the border joining them), as well as edge collisions (when a ball hits the edge of a brick)
-- Semi-responsive pause/resume button set-up
+- The pause button changes to a resume/stop button when you pause the game!
 - The game resets after every run, so you can play multiple games without re-booting the app :)
 - All level and player data is stored under *level.txt* in a single file, and all sprites are stored under *sprites.png* in a single texture map:
 
