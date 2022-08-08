@@ -1,0 +1,166 @@
+[level1]
+ballspeed = 6.0
+layout = 0000000000
+	2222222222
+	3333fs3333
+highscores = David, 6364; David, 4933; David, 4559; David, 3133; David, 2609
+
+[level2]
+ballspeed = 6.0
+layout = 2020402020
+	010e0e0e01
+	3030303030
+highscores = David, 4443; David, 444
+
+[level3]
+ballspeed = 6.0
+layout = 0000000000
+	0201111020
+	0201441020
+	0201eew020
+	0200000020
+	0212222120
+highscores = David, 17409
+
+[level4]
+ballspeed = 8.0
+layout = eeeeeeeeee
+	eeeeeeeeee
+	eeee00eeee
+	5555005555
+	5555005555
+	555w005555
+highscores = David, 1615701; David, 1571686; David, 1570518; David, 1570057; David, 1450316
+
+[level5]
+ballspeed = 6.0
+layout = 333e00f333
+	333f00e333
+	333e00f333
+	333f00e333
+highscores = David, 32234; David, 31114; David, 9419; David, 7070; David, 4016
+
+[level6]
+ballspeed = 9.0
+layout = 0405e05040
+	0403333040
+	0400f50040
+	0420000440
+	00w2222i00
+highscores = David, 7155; David, 6780; David, 6576; David, 5795; David, 1119
+
+[level7]
+ballspeed = 6.0
+layout = 0050020200
+	40e0300w50
+	0105e03000
+	002w020104
+	20e104e020
+	0300500300
+	0e030e3003
+	40003002e0
+	0020e01030
+	0103020101
+highscores = David, 28042; David, 2007; David, 444; David, 344
+
+[level8]
+ballspeed = 7.0
+layout = 00ff00ff00
+	0f22ff22f0
+	0f222s22f0
+	00f22222f0
+	00f22w2f00
+	000f222f00
+	000f222f00
+	0000f2f000
+	0000f2f000
+	00000ff000
+highscores = David, 83224; David, 5421; David, 3386; David, 439
+
+[level9]
+ballspeed = 10.0
+layout = 0000000000
+	0000000000
+	0033333300
+	0033333300
+	0032ww2300
+	0032ii2300
+	0033333300
+	0033333300
+highscores = David, 20887; David, 19128; David, 15014; David, 13860; David, 13284
+
+[level10]
+ballspeed = 9.0
+layout = 111e00e222
+	100e00e200
+	f113003222
+	001300300s
+	11w3333w22
+	2201100330
+	2021013003
+	2201103003
+	2021013003
+	2201010i30
+highscores = David, 209947; David, 182604; David, 175424; David, 114736; David, 53753
+
+[level11]
+ballspeed = 7.0
+layout = 5555ff5555
+	5es5555se5
+	5se5555es5
+	55wseesw55
+	55wfeefw55
+	555s00s555
+	f55500555f
+	5555005555
+	5555005555
+highscores = David, 5193209; David, 1600788; David, 1078174; David, 1011477; David, 833250
+
+[level12]
+ballspeed = 9.0
+layout = 3040504030
+	04050w040e
+	e030405030
+	0405030f04
+	5030i04050
+	0e04050403
+highscores = David, 12993; David, 12294; David, 100
+
+[level13]
+ballspeed = 8.0
+layout = 3333333333
+	f00444000f
+	f04000400f
+	f4000i040f
+	w40000400w
+	f40000040f
+	f04000400f
+	f00444000f
+	3333333333
+highscores = David, 248904; David, 444
+
+[level14]
+ballspeed = 10.0
+layout = 1111111111
+	1222222221
+	12f3333f21
+	123s44s321
+	1234554321
+	1i345543i1
+	1234554321
+	i23455432i
+highscores = David, 1444
+
+[level15]
+ballspeed = 10.0
+layout = 53e41523w1
+	245e3w5235
+	2w5e351424
+	33124152ew
+	ssssssssss
+	i35142523f
+	5342f135i1
+	f2i3424251
+	14253i42f2
+highscores = David, 73818; David, 40614; David, 7294; David, 6118; David, 3103
+
